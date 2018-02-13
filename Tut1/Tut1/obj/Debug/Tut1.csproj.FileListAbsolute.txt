@@ -1,0 +1,7 @@
+C:\Users\mtra\source\repos\Tut1\Tut1\bin\Debug\Tut1.exe.config
+C:\Users\mtra\source\repos\Tut1\Tut1\bin\Debug\Tut1.exe
+C:\Users\mtra\source\repos\Tut1\Tut1\bin\Debug\Tut1.pdb
+C:\Users\mtra\source\repos\Tut1\Tut1\obj\Debug\Tut1.csprojResolveAssemblyReference.cache
+C:\Users\mtra\source\repos\Tut1\Tut1\obj\Debug\Tut1.csproj.CoreCompileInputs.cache
+C:\Users\mtra\source\repos\Tut1\Tut1\obj\Debug\Tut1.exe
+C:\Users\mtra\source\repos\Tut1\Tut1\obj\Debug\Tut1.pdb
